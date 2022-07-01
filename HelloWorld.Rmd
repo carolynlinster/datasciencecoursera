@@ -2,7 +2,7 @@
 title: "HelloWorld"
 author: "Carolyn Linster"
 date: '2022-07-01'
-output: word_document
+output: md_document
 ---
 
 ```{r setup, include=FALSE}
